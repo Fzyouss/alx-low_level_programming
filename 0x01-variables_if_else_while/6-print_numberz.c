@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-fint main(void)
+int main(void)
 {
 	int num;
 
